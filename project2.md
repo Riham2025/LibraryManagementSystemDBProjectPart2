@@ -51,7 +51,9 @@ loan & return dates
 ![](./image/15.PNG)
 
 16- GET /books/never-reviewed →  List books that have never been reviewed
+![](./image/16.PNG)
 
+17 // GET /members/:id/loan-history →Show a member’s loan history with book titles and loan status.
 
 
 
