@@ -16,6 +16,8 @@ just like a backend engineer in a real-world system.
 4- GET /books/:id/ratings → Show average rating per book
 ![](./image/4.PNG)
 
+5- GET /members/inactive → List members with no loans 
+
 
 
 
