@@ -29,6 +29,13 @@ just like a backend engineer in a real-world system.
 ![](./image/8.PNG)
 
 9- GET /books/popular → List top 3 books by number of times they were loaned
+![](./image/9.PNG)
+
+10- GET /members/:id/history → Retrieve full loan history of a specific member including book title, 
+loan & return dates
+
+
+
 
 
 
