@@ -66,6 +66,9 @@ loan & return dates
 ![](./image/20.PNG)
 
 21- //GET /loans/overdue→ List all overdue loans with member and book details.
+![](./image/21.PNG)
+
+22- //GET /books/:id/loan-count → Show how many times a book has been loaned.
 
 
 
