@@ -33,6 +33,9 @@ just like a backend engineer in a real-world system.
 
 10- GET /members/:id/history → Retrieve full loan history of a specific member including book title, 
 loan & return dates
+![](./image/10.PNG)
+
+11- GET /books/:id/reviews → Show all reviews for a book with member name and comments
 
 
 
