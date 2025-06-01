@@ -17,6 +17,9 @@ just like a backend engineer in a real-world system.
 ![](./image/4.PNG)
 
 5- GET /members/inactive → List members with no loans 
+![](./image/5.PNG)
+
+6- GET /payments/summary → Total fine paid per member  
 
 
 
