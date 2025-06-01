@@ -57,8 +57,9 @@ loan & return dates
 ![](./image/17.PNG)
 
 18 //GET /members/inactive →List all members who have never borrowed any book. 
+![](./image/18.PNG)
 
-
+19 //GET /books/never-loaned → List books that were never loaned.
 
 
 
