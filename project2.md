@@ -69,8 +69,9 @@ loan & return dates
 ![](./image/21.PNG)
 
 22- //GET /books/:id/loan-count → Show how many times a book has been loaned.
+![](./image/22.PNG)
 
-
+23- //GET /members/:id/fines → Get total fines paid by a member across all loans. 
 
 
 
