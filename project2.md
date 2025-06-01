@@ -47,6 +47,8 @@ loan & return dates
 14- GET /loans/active → List all currently active loans (not yet returned) with member and book info
 ![](./image/14.PNG)
 
+15- GET /members/with-fines → List members who have paid any fine 
+
 
 
 
