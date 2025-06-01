@@ -53,14 +53,16 @@ loan & return dates
 16- GET /books/never-reviewed →  List books that have never been reviewed
 ![](./image/16.PNG)
 
-17 // GET /members/:id/loan-history →Show a member’s loan history with book titles and loan status.
+17- // GET /members/:id/loan-history →Show a member’s loan history with book titles and loan status.
 ![](./image/17.PNG)
 
-18 //GET /members/inactive →List all members who have never borrowed any book. 
+18- //GET /members/inactive →List all members who have never borrowed any book. 
 ![](./image/18.PNG)
 
-19 //GET /books/never-loaned → List books that were never loaned.
+19- //GET /books/never-loaned → List books that were never loaned.
+![](./image/19.PNG)
 
+20- GET /payments →List all payments with member name and book title.
 
 
 
