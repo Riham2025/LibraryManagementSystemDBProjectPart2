@@ -54,8 +54,9 @@ loan & return dates
 ![](./image/16.PNG)
 
 17 // GET /members/:id/loan-history →Show a member’s loan history with book titles and loan status.
+![](./image/17.PNG)
 
-
+18 //GET /members/inactive →List all members who have never borrowed any book. 
 
 
 
