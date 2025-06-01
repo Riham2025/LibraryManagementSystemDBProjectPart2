@@ -28,6 +28,8 @@ just like a backend engineer in a real-world system.
 8- GET /reviews → Reviews with member and book info
 ![](./image/8.PNG)
 
+9- GET /books/popular → List top 3 books by number of times they were loaned
+
 
 
 
