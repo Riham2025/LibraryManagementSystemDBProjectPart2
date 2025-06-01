@@ -45,6 +45,7 @@ loan & return dates
 ![](./image/13.PNG)
 
 14- GET /loans/active → List all currently active loans (not yet returned) with member and book info
+![](./image/14.PNG)
 
 
 
