@@ -42,7 +42,9 @@ loan & return dates
 ![](./image/12.PNG)
 
 13- GET /books/price-range?min=5&max=15 → Show books whose prices fall within a given range
+![](./image/13.PNG)
 
+14- GET /loans/active → List all currently active loans (not yet returned) with member and book info
 
 
 
