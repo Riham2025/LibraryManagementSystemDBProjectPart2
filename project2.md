@@ -36,6 +36,9 @@ loan & return dates
 ![](./image/10.PNG)
 
 11- GET /books/:id/reviews → Show all reviews for a book with member name and comments
+![](./image/11.PNG)
+
+12- GET /libraries/:id/staff → List all staff working in a given library
 
 
 
