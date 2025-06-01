@@ -75,4 +75,7 @@ loan & return dates
 ![](./image/23.PNG)
 
 24- //GET /libraries/:id/book-stats → Show count of available and unavailable books in a library.
+![](./image/24.PNG)
+
+25- 25- //GET /reviews/top-rated → Return books with more than 5 reviews and average rating > 4.5.
 
