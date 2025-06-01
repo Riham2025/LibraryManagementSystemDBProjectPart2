@@ -4,25 +4,29 @@ performance, enable advanced reporting, implement automation, and ensure transac
 just like a backend engineer in a real-world system.
 
 ## SELECT Queries
-1- GET /books/unavailable → List books not available
+1- GET /loans/overdue → List all overdue loans with member name, book title, due date
 ![](./image/1.PNG)
 
-2- GET /books/unavailable → List books not available 
+2- GET /books/unavailable → List books not available
 ![](./image/2.PNG)
 
-3- GET /members/top-borrowers → Members who borrowed >2 books
+3- GET /books/unavailable → List books not available 
 ![](./image/3.PNG)
 
-4- GET /books/:id/ratings → Show average rating per book
+4- GET /members/top-borrowers → Members who borrowed >2 books
 ![](./image/4.PNG)
 
-5- GET /members/inactive → List members with no loans 
+5- GET /books/:id/ratings → Show average rating per book
 ![](./image/5.PNG)
 
-6- GET /payments/summary → Total fine paid per member
-![](./image/6.PNG) 
+6- GET /members/inactive → List members with no loans 
+![](./image/6.PNG)
 
-7- GET /reviews → Reviews with member and book info
+7- GET /payments/summary → Total fine paid per member
+![](./image/7.PNG) 
+
+8- GET /reviews → Reviews with member and book info
+![](./image/8.PNG)
 
 
 
