@@ -11,6 +11,9 @@ GET /books/unavailable → List books not available
 ![](./image/2.PNG)
 
 GET /members/top-borrowers → Members who borrowed >2 books
+![](./image/3.PNG)
+
+GET /books/:id/ratings → Show average rating per book
 
 
 
