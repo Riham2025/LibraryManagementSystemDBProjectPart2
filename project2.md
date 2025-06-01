@@ -39,6 +39,10 @@ loan & return dates
 ![](./image/11.PNG)
 
 12- GET /libraries/:id/staff → List all staff working in a given library
+![](./image/12.PNG)
+
+13- GET /books/price-range?min=5&max=15 → Show books whose prices fall within a given range
+
 
 
 
