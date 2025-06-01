@@ -48,6 +48,9 @@ loan & return dates
 ![](./image/14.PNG)
 
 15- GET /members/with-fines → List members who have paid any fine 
+![](./image/15.PNG)
+
+16- GET /books/never-reviewed →  List books that have never been reviewed
 
 
 
