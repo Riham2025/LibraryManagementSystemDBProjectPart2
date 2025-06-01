@@ -72,6 +72,7 @@ loan & return dates
 ![](./image/22.PNG)
 
 23- //GET /members/:id/fines → Get total fines paid by a member across all loans. 
+![](./image/23.PNG)
 
-
+24- //GET /libraries/:id/book-stats → Show count of available and unavailable books in a library.
 
