@@ -7,6 +7,10 @@ just like a backend engineer in a real-world system.
 GET /books/unavailable → List books not available
 ![](./image/1.PNG)
 
+GET /books/unavailable → List books not available 
+
+
+
 
 
 
