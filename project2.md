@@ -4,16 +4,19 @@ performance, enable advanced reporting, implement automation, and ensure transac
 just like a backend engineer in a real-world system.
 
 ## SELECT Queries
-GET /books/unavailable → List books not available
+1- GET /books/unavailable → List books not available
 ![](./image/1.PNG)
 
-GET /books/unavailable → List books not available 
+2- GET /books/unavailable → List books not available 
 ![](./image/2.PNG)
 
-GET /members/top-borrowers → Members who borrowed >2 books
+3- GET /members/top-borrowers → Members who borrowed >2 books
 ![](./image/3.PNG)
 
-GET /books/:id/ratings → Show average rating per book
+4- GET /books/:id/ratings → Show average rating per book
+![](./image/4.PNG)
+
+
 
 
 
