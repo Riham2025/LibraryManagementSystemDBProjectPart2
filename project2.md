@@ -207,3 +207,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/40.PNG)
 
 4. fn_GetMemberLoanCount Return the total number of loans made by a given member.
+
+![](./image/41.PNG)
+
+5. fn_GetLateReturnDays Return the number of late days for a loan (0 if not late).
