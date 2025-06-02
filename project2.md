@@ -161,3 +161,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/30.PNG)
 
 6. Non-clustered on Status → Filter by status
+
+![](./image/31.PNG)
+
+7. Composite index on BookID, LoanDate, ReturnDate → Optimize overdue checks
