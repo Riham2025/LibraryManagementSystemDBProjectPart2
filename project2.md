@@ -134,8 +134,16 @@ loan & return dates
 ## 2. Indexing Strategy – Performance Optimization
 Apply indexes to speed up commonly-used queries: 
 
+--------------- Library Table
+
 1. Library Table Non-clustered on Name → Search by name :
 
 ![](./image/26.PNG)
 
 2. Non-clustered on Location → Filter by location :
+
+![](./image/27.PNG)
+
+ --------------- Book Table
+
+3. Book Table Clustered on LibraryID, ISBN → Lookup by book in specific library
