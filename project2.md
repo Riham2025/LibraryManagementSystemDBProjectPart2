@@ -184,3 +184,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/35.PNG)
 
 4. ViewLoanStatusSummary Loan stats (issued, returned, overdue) per library
+
+![](./image/36.PNG)
+
+5. ViewPaymentOverview Payment info with member, book, and status
