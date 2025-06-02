@@ -147,3 +147,7 @@ Apply indexes to speed up commonly-used queries:
  --------------- Book Table
 
 3. Book Table Clustered on LibraryID, ISBN → Lookup by book in specific library
+
+![](./image/28.PNG)
+
+4. Non-clustered on Genre → Filter by genre 
