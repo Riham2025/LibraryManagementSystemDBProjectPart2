@@ -151,3 +151,9 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/28.PNG)
 
 4. Non-clustered on Genre → Filter by genre 
+
+![](./image/29.PNG)
+
+----------------Loan Table 
+
+5. Non-clustered on MemberID → Loan history
