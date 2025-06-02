@@ -219,3 +219,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/43.PNG)
 
 7. fn_GetTopRatedBooks Returns books with average rating ≥ 4.5 
+
+![](./image/44.PNG)
+
+8. fn_FormatMemberName Returns the full name formatted as "LastName, FirstName" 
