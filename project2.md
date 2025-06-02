@@ -157,3 +157,7 @@ Apply indexes to speed up commonly-used queries:
 ----------------Loan Table 
 
 5. Non-clustered on MemberID → Loan history
+
+![](./image/30.PNG)
+
+6. Non-clustered on Status → Filter by status
