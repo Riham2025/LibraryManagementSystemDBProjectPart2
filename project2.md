@@ -215,3 +215,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/42.PNG)
 
 6. fn_ListAvailableBooksByLibrary Returns a table of available books from a specific library. 
+
+![](./image/43.PNG)
+
+7. fn_GetTopRatedBooks Returns books with average rating ≥ 4.5 
