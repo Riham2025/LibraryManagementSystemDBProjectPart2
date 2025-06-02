@@ -165,3 +165,10 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/31.PNG)
 
 7. Composite index on BookID, LoanDate, ReturnDate → Optimize overdue checks
+
+![](./image/32.PNG)
+
+
+##  Views – Frontend Integration Support
+
+1. ViewPopularBooks Books with average rating > 4.5 + total loans
