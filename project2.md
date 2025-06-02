@@ -211,3 +211,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/41.PNG)
 
 5. fn_GetLateReturnDays Return the number of late days for a loan (0 if not late).
+
+![](./image/42.PNG)
+
+6. fn_ListAvailableBooksByLibrary Returns a table of available books from a specific library. 
