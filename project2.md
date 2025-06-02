@@ -194,4 +194,8 @@ Apply indexes to speed up commonly-used queries:
 
 ##  3. Functions – Reusable Logic 
 
-GetBookAverageRating(BookID) Returns average rating of a book 
+1. GetBookAverageRating(BookID) Returns average rating of a book 
+
+![](./image/38.PNG)
+
+2. GetNextAvailableBook(Genre, Title, LibraryID) Fetches the next available book
