@@ -135,3 +135,7 @@ loan & return dates
 Apply indexes to speed up commonly-used queries: 
 
 1. Library Table Non-clustered on Name → Search by name :
+
+![](./image/26.PNG)
+
+2. Non-clustered on Location → Filter by location :
