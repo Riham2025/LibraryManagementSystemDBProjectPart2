@@ -199,3 +199,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/38.PNG)
 
 2. GetNextAvailableBook(Genre, Title, LibraryID) Fetches the next available book
+
+![](./image/39.PNG)
+
+3. CalculateLibraryOccupancyRate(LibraryID) Returns % of books currently issued 
