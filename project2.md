@@ -176,3 +176,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/33.PNG)
 
 2.ViewMemberLoanSummary Member loan count + total fines paid  
+
+![](./image/34.PNG)
+
+3. ViewAvailableBooks Available books grouped by genre, ordered by price
