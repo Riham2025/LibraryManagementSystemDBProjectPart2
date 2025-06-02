@@ -180,3 +180,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/34.PNG)
 
 3. ViewAvailableBooks Available books grouped by genre, ordered by price
+
+![](./image/35.PNG)
+
+4. ViewLoanStatusSummary Loan stats (issued, returned, overdue) per library
