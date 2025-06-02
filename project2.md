@@ -188,3 +188,10 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/36.PNG)
 
 5. ViewPaymentOverview Payment info with member, book, and status
+
+![](./image/37.PNG)
+
+
+##  3. Functions – Reusable Logic 
+
+GetBookAverageRating(BookID) Returns average rating of a book 
