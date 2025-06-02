@@ -172,3 +172,7 @@ Apply indexes to speed up commonly-used queries:
 ##  Views – Frontend Integration Support
 
 1. ViewPopularBooks Books with average rating > 4.5 + total loans
+
+![](./image/33.PNG)
+
+2.ViewMemberLoanSummary Member loan count + total fines paid  
