@@ -203,3 +203,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/39.PNG)
 
 3. CalculateLibraryOccupancyRate(LibraryID) Returns % of books currently issued 
+
+![](./image/40.PNG)
+
+4. fn_GetMemberLoanCount Return the total number of loans made by a given member.
