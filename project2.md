@@ -229,4 +229,6 @@ Apply indexes to speed up commonly-used queries:
 
 ## 4. Stored Procedures – Backend Automation 
 
-sp_MarkBookUnavailable(BookID) Updates availability after issuing 
+sp_MarkBookUnavailable(BookID) Updates availability after issuing
+
+![](./image/46.PNG)
