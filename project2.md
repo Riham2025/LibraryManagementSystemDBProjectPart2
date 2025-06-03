@@ -283,4 +283,4 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/57.PNG)
 
 
-## 7. Advanced Aggregations – Analytical Insight 
+
