@@ -35,7 +35,7 @@ BEGIN
 END
 
 
----3. sp_RankMembersByFines() Ranks members by total fines paid 
+---------3. sp_RankMembersByFines() Ranks members by total fines paid 
 CREATE PROCEDURE sp_RankMembersByFines
 AS
 BEGIN
