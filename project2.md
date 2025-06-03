@@ -264,3 +264,7 @@ Apply indexes to speed up commonly-used queries:
 
 2. Most active libraries (by loan count)
 
+![](./image/53.PNG)
+
+3. Avg book price per genre 
+
