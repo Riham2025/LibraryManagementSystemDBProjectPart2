@@ -294,3 +294,11 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/59.PNG)
 
 3. Occupancy rate calculations 
+
+![](./image/60.PNG)
+
+4. Members with loans but no fine 
+
+![](./image/61.PNG)
+
+5. Genres with high average ratings 
