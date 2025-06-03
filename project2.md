@@ -290,3 +290,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/58.PNG)
 
 2. Subqueries for complex logic (e.g., max price per genre)
+
+![](./image/59.PNG)
+
+3. Occupancy rate calculations 
