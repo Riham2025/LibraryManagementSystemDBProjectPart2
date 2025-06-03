@@ -241,7 +241,7 @@ Apply indexes to speed up commonly-used queries:
 
 ![](./image/48.PNG)
 
-## Triggers – Real-Time Business Logic
+## 5. Triggers – Real-Time Business Logic
 
 1. After new loan → set book to unavailable
 
@@ -252,3 +252,11 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/50.PNG)
 
 3. trg_LoanDateValidation Prevents invalid return dates on insert 
+
+![](./image/51.PNG)
+
+
+## 6. Aggregation Functions – Dashboard Reports 
+
+1. Total fines per member
+
