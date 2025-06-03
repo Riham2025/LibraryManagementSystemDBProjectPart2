@@ -243,4 +243,8 @@ Apply indexes to speed up commonly-used queries:
 
 ## Triggers – Real-Time Business Logic
 
-After new loan → set book to unavailable
+1. After new loan → set book to unavailable
+
+![](./image/49.PNG)
+
+2. trg_CalculateLibraryRevenue After new payment → update library revenue 
