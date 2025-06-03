@@ -315,3 +315,5 @@ Apply indexes to speed up commonly-used queries:
 2. Returning a book (update status, return date, availability).
 
 ![](./image/64.PNG)
+
+3. Registering a payment (with validation) 
