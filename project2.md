@@ -301,4 +301,17 @@ Apply indexes to speed up commonly-used queries:
 
 ![](./image/61.PNG)
 
-5. Genres with high average ratings 
+5. Genres with high average ratings
+
+![](./image/62.PNG)
+
+
+## 8. Transactions – Ensuring Consistency 
+
+1. Borrowing a book (loan insert + update availability)
+
+![](./image/63.PNG)
+
+2. Returning a book (update status, return date, availability)
+
+![](./image/64.PNG)
