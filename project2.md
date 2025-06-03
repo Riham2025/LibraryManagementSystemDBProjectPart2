@@ -223,3 +223,10 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/44.PNG)
 
 8. fn_FormatMemberName Returns the full name formatted as "LastName, FirstName" 
+
+![](./image/45.PNG)
+
+
+## 4. Stored Procedures – Backend Automation 
+
+sp_MarkBookUnavailable(BookID) Updates availability after issuing 
