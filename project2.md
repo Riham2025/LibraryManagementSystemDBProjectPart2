@@ -278,4 +278,9 @@ Apply indexes to speed up commonly-used queries:
 
 ![](./image/56.PNG)
 
-6. Member activity summary (loan + fines) 
+6. Member activity summary (loan + fines)
+
+![](./image/57.PNG)
+
+
+## 7. Advanced Aggregations – Analytical Insight 
