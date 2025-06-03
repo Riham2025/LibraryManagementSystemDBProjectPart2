@@ -317,3 +317,8 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/64.PNG)
 
 3. Registering a payment (with validation) 
+
+![](./image/65.PNG)
+
+4. Batch loan insert with rollback on failure
+
