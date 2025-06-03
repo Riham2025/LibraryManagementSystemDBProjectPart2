@@ -312,6 +312,6 @@ Apply indexes to speed up commonly-used queries:
 
 ![](./image/63.PNG)
 
-2. Returning a book (update status, return date, availability)
+2. Returning a book (update status, return date, availability).
 
 ![](./image/64.PNG)
