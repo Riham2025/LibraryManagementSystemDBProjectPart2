@@ -260,3 +260,7 @@ Apply indexes to speed up commonly-used queries:
 
 1. Total fines per member
 
+![](./image/52.PNG)
+
+2. Most active libraries (by loan count)
+
