@@ -268,3 +268,14 @@ Apply indexes to speed up commonly-used queries:
 
 3. Avg book price per genre 
 
+![](./image/54.PNG)
+
+4. Top 3 most reviewed books 
+
+![](./image/55.PNG)
+
+5. Library revenue report 
+
+![](./image/56.PNG)
+
+6. Member activity summary (loan + fines) 
