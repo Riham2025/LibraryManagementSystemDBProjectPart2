@@ -242,3 +242,5 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/48.PNG)
 
 ## Triggers – Real-Time Business Logic
+
+After new loan → set book to unavailable
