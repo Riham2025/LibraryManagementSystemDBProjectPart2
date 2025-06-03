@@ -240,3 +240,5 @@ Apply indexes to speed up commonly-used queries:
 3. sp_RankMembersByFines() Ranks members by total fines paid 
 
 ![](./image/48.PNG)
+
+## Triggers – Real-Time Business Logic
