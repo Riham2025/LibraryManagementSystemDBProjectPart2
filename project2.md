@@ -238,3 +238,5 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/47.PNG)
 
 3. sp_RankMembersByFines() Ranks members by total fines paid 
+
+![](./image/48.PNG)
