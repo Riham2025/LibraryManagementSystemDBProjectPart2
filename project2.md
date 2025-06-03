@@ -287,3 +287,6 @@ Apply indexes to speed up commonly-used queries:
 
 1. HAVING for filtering aggregates
 
+![](./image/58.PNG)
+
+2. Subqueries for complex logic (e.g., max price per genre)
