@@ -234,3 +234,7 @@ Apply indexes to speed up commonly-used queries:
 ![](./image/46.PNG)
 
 2. sp_UpdateLoanStatus() Checks dates and updates loan statuses
+
+![](./image/47.PNG)
+
+3. sp_RankMembersByFines() Ranks members by total fines paid 
